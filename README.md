@@ -1,17 +1,11 @@
 # DevTinder Backend
 
 ## Overview
-DevTinder is a MERN stack web application designed to help developers connect and collaborate, similar to Tinder but specifically for developers. Users can create profiles, explore other developers, send connection requests, and manage their matches.
+DevTinder is a backend application designed to help developers connect and collaborate, similar to Tinder but specifically for developers. Users can create profiles, explore other developers, send connection requests, and manage their matches.
 
 This repository contains the backend of DevTinder, built with Node.js, Express, and MongoDB, following a microservices architecture for scalability.
 
-> Note: The backend is fully functional and ready for further scaling and optimizations.
-
 ---
-
-## My Node.js Learning Repository
-I learned and maintained all my Node.js knowledge in one place:
-[Namsate Nodejs](https://github.com/akshadjaiswal/Namaste-Nodejs)
 
 ## Tech Stack
 - Backend Framework: [Node.js](https://nodejs.org/en) + [Express.js](https://expressjs.com/)
